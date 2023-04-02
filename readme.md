@@ -29,3 +29,5 @@ write down your ideas
 12.) being able to reverse campaign theater files because they can only currently move forward, not backward.
 
 13.) The game doesn’t store your recent theater file in local low, unless you physically enter the theater menu and let the files populate first in game. I wonder if there’s a way you could just have the files automatically be sent without having to load the theater menu first?
+
+14.) Ability to have grenades pass through skyboxes without disappearing.
